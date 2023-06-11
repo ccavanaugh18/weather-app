@@ -9,13 +9,13 @@ a better developer.
 ## Screenshot
 
 <div style="text-align: center;">
-	<p>Optimized for mobile screen</p>
-	<img src="src/assets/screenshot.jpg" alt="Project Screenshot>
+  <p>Optimized for mobile screens</p>
+  <img src="src/assets/screenshot.jpg" alt="Project Screenshot">
 </div>
 
 ## Demo
 
 https://ccavanaugh18.github.io/weather-app/
 
-In order to search correctly, the format should be (city name, state name). Due to the open weather api, 
+In order to search correctly, the format should be (city name, state name). Due to the OpenWeather API, 
 you must enter the full state name.
